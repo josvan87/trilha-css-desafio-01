@@ -1,0 +1,133 @@
+*{
+    background-color: black !important;
+}
+
+
+.logo{
+    height: 150px;
+    width: 80px;
+    margin-left: 500px;
+}
+
+
+.banner-content h1{
+    color: #33A8DB;
+    padding-top: 80px;
+    margin-left: 420px;
+    text-transform: uppercase;
+   
+}
+.banner-content p{
+    color: #33A8DB;
+    margin-left: 380px;
+    overflow-wrap: break-word;
+    font-size: 20px;
+    color: white;
+
+
+}
+
+.banner-content button{
+    margin-left: 420px;
+    text-transform: uppercase;
+    border: 10px;
+    border-bottom: 3px solid #33A8DB;
+    color:#33A8DB;
+    width: 326px;
+    height: 57px;
+    cursor: pointer;
+    
+    
+
+}
+
+main h2{
+    margin-left: 400px;
+    font-size: 40px;
+    letter-spacing: 2px;
+    color:#33A8DB;
+}
+
+main p{
+    margin-left: 270px;
+    color:white;
+}
+main span{
+ color: #33A8DB;
+ padding-left: 70px;
+   
+}
+
+.module1 {
+    font-family: Arial, sans-serif;
+    border: 2px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 500px;
+    margin-left: 350px;
+    border-radius: 50px;
+    color: white;
+  
+  }
+  .module2 {
+    font-family: Arial, sans-serif;
+    border: 2px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 500px;
+    margin-left: 350px;
+    border-radius: 50px;
+    color: white;
+  }
+  .module3 {
+    font-family: Arial, sans-serif;
+    border: 2px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 500px;
+    margin-left: 350px;
+    border-radius: 50px;
+    color: white;
+  }
+
+#container{
+    position: relative;
+    width: 1500px; /* Largura da imagem */
+    height: 400px; /* Altura da imagem */
+    background-image: url('../css/woman-code.png');
+    background-size: cover; /* Ajusta o tamanho da imagem para cobrir a área */
+    background-position: center; /* Centraliza a imagem */
+    
+
+
+}
+  #content{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 10px;
+    left: 0;
+    top: 0;
+    font-size: 40px;
+    color: white;
+    box-shadow: (inset 10px 10px) ;
+    background-color:transparent;
+    
+  
+}
+
+main img{
+    margin-left: 300px;
+}
+
+#professional-challenges h2{
+   margin-right: 50px;
+
+}
+
+.dio-logo{
+    margin-left: 400px;
+}
+
+footer p{
+    margin-left: 480px;
+}
